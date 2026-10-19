@@ -1,0 +1,11 @@
+模型安装说明:请在电脑终端(CMD)中输入以下对应的命令:
+安装 1.5b 版本请输入:ollama run deepseek-r1:1.5b
+安装7b 版本请输入:ollama run deepseek-r1:7b
+安装8b 版本请输入:ollama run deepseek-r1:8b
+安裝14b版本请输入:ollama run deepseek-r1:14b
+
+
+
+
+电脑配置跟不上的建议使用：5b、7b、8b
+电脑能跟的上 全下就好了
